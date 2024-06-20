@@ -1,0 +1,7 @@
+Haciendo un triángulo con bucles
+
+  for(let linea="#";linea.length<7;linea+="#")
+    console.log(linea);
+
+
+FizzBuzz
